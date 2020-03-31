@@ -1,0 +1,6 @@
+[submodule "tublotapi"]
+	path = tublotapi
+	url = https://github.com/Space0726/tublotapi
+[submodule "tublot-react"]
+	path = tublot-react
+	url = https://github.com/Space0726/tublot-react
